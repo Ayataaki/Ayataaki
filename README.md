@@ -2,8 +2,6 @@
 
 An enthusiastic **Software & Data Engineer** passionate about building scalable backends, full-stack web/mobile architectures, and intelligent data systems.
 
-Currently transitioning into **Grenoble INP - ENSIMAG** (*Information Systems Engineering*) while leveraging a strong foundation from **ENSIAS** (*Data and Software Sciences*).
-
 ---
 
 ### What I Do & Build
@@ -46,9 +44,9 @@ Currently transitioning into **Grenoble INP - ENSIMAG** (*Information Systems En
 ### GitHub Stats & Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayataaki&show_icons=true&theme=tokyonight&count_private=true" alt="Aya's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayataaki&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayataaki&theme=tokyonight&hide_border=true"/>
 </p>
+
 
 ---
 
