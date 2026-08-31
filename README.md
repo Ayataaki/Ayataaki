@@ -17,7 +17,7 @@ An enthusiastic **Software & Data Engineer** passionate about building scalable 
 
 **Languages**
 <br/>
-[![Languages](https://skillicons.dev/icons?i=java,py,js,ts,dart,c)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,py,js,ts,dart,c,cs)](https://skillicons.dev)
 
 **Backend & Frameworks**
 <br/>
